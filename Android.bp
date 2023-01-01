@@ -216,6 +216,12 @@ dex_import {
 }
 
 dex_import {
+	name: "camerax-vendor-extensions",
+	owner: "xiaomi",
+	jars: ["proprietary/framework/camerax-vendor-extensions.jar"],
+}
+
+dex_import {
 	name: "tcmclient",
 	owner: "xiaomi",
 	jars: ["proprietary/framework/tcmclient.jar"],
